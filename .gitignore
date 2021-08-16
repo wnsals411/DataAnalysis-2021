@@ -1,3 +1,8 @@
+###
+exercise.ipynb
+kakaoapikey.txt
+loadapikey.txt
+guideSearchApi/
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,visualstudiocode,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,visualstudiocode,jupyternotebooks
@@ -23,7 +28,8 @@ ipython_config.py
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
